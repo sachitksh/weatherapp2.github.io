@@ -1,0 +1,19 @@
+.weather-box img{
+    border: 31px solid white;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+body{
+    display:flex;
+    justify-content:center;
+}
+
+.weather-box{
+    border: 31px solid white;
+}
+.weather-details{
+    border: 31px solid white;
+
+}
